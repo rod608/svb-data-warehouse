@@ -6,10 +6,9 @@ Important Project Links: [ETL Pipeline Video Demo](https://drive.google.com/file
 ### [Team Formation]
 |Role|Team Member|
 |-------------------------------|-----------------------------|
-|`Data Modeling + Data Science`|Simón Caicedo|
+|`Data Engineering`|Simón Caicedo|
 |`Data Engineering`|Rodney Nuñez|
-|`Data Engineering`|Akin Onisile|
-|`Data Modeling + Data Science`|Yifei Long|
+|`Data Modeling`|Yifei Long|
 
 ## Project Topic
 
